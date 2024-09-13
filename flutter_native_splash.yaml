@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/Splash/Islami_Splash.png
+  branding: assets/images/Splash/Group 7@2x.png
+  color_dark: "#111728"
+  image_dark: assets/images/Splash/Islami_Splash.png
+  branding_dark: assets/images/Splash/Group 7@2x.png
+
+  android_12:
+    image: assets/images/Splash/Islami_Splash.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/Splash/Islami_Splash.png
+    icon_background_color_dark: "#111728"
+    branding: assets/images/Splash/Group 7@2x.png
+    branding_dark: assets/images/Splash/Group 7@2x.png
